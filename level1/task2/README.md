@@ -35,7 +35,3 @@ The website is designed to be visually appealing and user-friendly, showcasing s
 
 ## How to View
 Open `index.html` in a browser to see the website.
-
-### Optional: Live Preview
-If GitHub Pages is enabled for this folder, you can view it live here:  
-[https://SujithaGanta111.github.io/CODSOFT/02_Task2/](https://SujithaGanta111.github.io/CODSOFT/02_Task2/)
